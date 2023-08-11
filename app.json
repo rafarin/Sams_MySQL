@@ -1,0 +1,125 @@
+{
+  "id": "db0191df-bc56-4af4-a375-e08607329b68",
+  "name": "Sams NodeJS-MySQL",
+  "publisher": "Povilas Šeštokas",
+  "version": "0.0.5.6",
+  "brief": "",
+  "description": "Funkcijos, skirtos sąsajai su MySQL duomenų baze",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "screenshots": [],
+  "platform": "22.0.54157.56766",
+  "target": "Cloud",
+  "application": "22.3.58346.58475",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 99000
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": true,
+    "applyToDevExtension": true
+  },
+  "dependencies": [
+    {
+      "id": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "name": "Base Application",
+      "version": "22.3.58346.58782",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "c50a4bf0-db51-4ad2-88d5-fe2287da0eb8",
+      "name": "VAT Group Management",
+      "version": "22.3.58346.58585",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "d1268ebf-f70f-4118-80d7-27a78fc5d2f0",
+      "name": "Core Reports for Lithuania",
+      "version": "22.0.9.0",
+      "publisher": "Lithuanian Dynamics Partners"
+    },
+    {
+      "id": "a2cc2ef8-949f-43d4-45b8-10bd6f8bc62c",
+      "name": "API Reports - Finance",
+      "version": "22.3.58346.58585",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "70912191-3c4c-49fc-a1de-bc6ea1ac9da6",
+      "name": "Intrastat Core",
+      "version": "22.3.58346.58585",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "f3eb5d7e-a19e-47ec-9937-ad8e13c592d1",
+      "name": "Core Functionality for Lithuania",
+      "version": "21.0.2.25",
+      "publisher": "Lithuanian Dynamics Partners"
+    },
+    {
+      "id": "20d24042-7ec4-4de4-9958-5a2c20f769a9",
+      "name": "VAT Reporting for Lithuania",
+      "version": "22.3.13.0",
+      "publisher": "Lithuanian Dynamics Partners"
+    },
+    {
+      "id": "9157cb28-84b3-4c44-a392-5ecbf4a7032f",
+      "name": "Intrastat Reporting for Lithuania",
+      "version": "21.6.6.0",
+      "publisher": "Lithuanian Dynamics Partners"
+    },
+    {
+      "id": "bfc08ae5-e488-4313-8a9a-c59a7d872830",
+      "name": "Lithuanian Language for Lithuania",
+      "version": "22.0.7.0",
+      "publisher": "Lithuanian Dynamics Partners"
+    },
+    {
+      "id": "ec255f57-31d0-4ca2-b751-f2fa7c745abb",
+      "name": "Shopify Connector",
+      "version": "22.3.58346.58585",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "b8561b5d-1c61-4383-9177-b9367c4a41f0",
+      "name": "i.SAF for Lithuania",
+      "version": "21.0.3.26",
+      "publisher": "Lithuanian Dynamics Partners"
+    },
+    {
+      "id": "1fc3a713-3142-4a5c-adcf-293de6646ffe",
+      "name": "i.VAZ for Lithuania",
+      "version": "22.0.3.0",
+      "publisher": "Lithuanian Dynamics Partners"
+    },
+    {
+      "id": "36448715-3331-4b7e-ba16-824f9058f9e1",
+      "name": "Softera Baltic Common Functions",
+      "version": "103.0.0.0",
+      "publisher": "Softera Baltic"
+    },
+    {
+      "id": "983468f2-0914-4b38-9c32-69004fa8a0c9",
+      "name": "Softera UNI",
+      "version": "21.7.3.2",
+      "publisher": "Softera Baltic"
+    },
+    {
+      "id": "da380f23-13aa-4911-97c7-72eea82a3f19",
+      "name": "Softera Payroll Salary for Lithuania",
+      "version": "22.0.14.93",
+      "publisher": "Softera Baltic"
+    }
+  ],
+  "runtime": "11.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}

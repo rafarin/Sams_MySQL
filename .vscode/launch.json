@@ -1,0 +1,19 @@
+{
+    "version": "0.0.1",
+    "configurations": [
+        {
+            "name": "BC Dynamics 365 SandBox",
+            "request": "launch",
+            "type": "al",
+            "tenant": "e5105e9d-d446-45eb-9caa-b8020c0f1562",
+            "environmentType": "Sandbox",
+            "environmentName": "Senas_Prod_0809",
+            "startupObjectId": 672,
+            "startupObjectType": "Page",
+            "breakOnError": "All",
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true
+        }
+    ]
+}
